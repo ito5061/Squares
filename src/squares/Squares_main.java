@@ -28,7 +28,7 @@ public class Squares_main {
 		}
 		Graph graph = new Graph(value);
 		graph.setBounds(5,5,655,455);
-		graph.setVisible(true);;
+		graph.setVisible(true);
 
 	}
 	
