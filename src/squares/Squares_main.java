@@ -33,7 +33,7 @@ public class Squares_main {
 	}
 	
     public double[] getCSV1(String path, int n) { //CSVから1次元データ取り込み(n:データ数)
-        //CSVから取り込み
+         //CSVから取り込み
         double csvdata[] = new double[n];
         try {
             File f = new File(path);

@@ -50,7 +50,6 @@ public class Graph  extends Frame implements ActionListener, WindowListener{
 		// TODO Auto-generated method stub
 		
 	}
-
 	@Override
 	public void windowDeiconified(WindowEvent e) {
 		// TODO Auto-generated method stub
